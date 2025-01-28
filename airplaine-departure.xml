@@ -24,7 +24,7 @@
 		<Gate>55</Gate>
 		<Status>Delay 15:55</Status>
 		<Terminal>F3</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/sw.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -39,7 +39,7 @@
 		<Gate>12</Gate>
 		<Status>On Time</Status>
 		<Terminal>E2</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/af.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/af.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -54,7 +54,7 @@
 		<Gate>22</Gate>
 		<Status>On Time</Status>
 		<Terminal>C1</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ba.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ba.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -69,7 +69,7 @@
 		<Gate>39</Gate>
 		<Status>Delay 18:00</Status>
 		<Terminal>F3</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/sw.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -84,7 +84,7 @@
 		<Gate>44</Gate>
 		<Status>On Time</Status>
 		<Terminal>B4</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ua.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -99,7 +99,7 @@
 		<Gate>32</Gate>
 		<Status>On Time</Status>
 		<Terminal>B5</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/aa.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/aa.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -114,7 +114,7 @@
 		<Gate>33</Gate>
 		<Status>On Time</Status>
 		<Terminal>A1</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ib.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ib.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -129,7 +129,7 @@
 		<Gate>12</Gate>
 		<Status>On Time</Status>
 		<Terminal>F3</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/sw.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -144,7 +144,7 @@
 		<Gate>15</Gate>
 		<Status>On Time</Status>
 		<Terminal>F5</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/sw.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -159,7 +159,7 @@
 		<Gate>21</Gate>
 		<Status>On Time</Status>
 		<Terminal>F3</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/sw.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -174,7 +174,7 @@
 		<Gate>30</Gate>
 		<Status>On Time</Status>
 		<Terminal>A1</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ib.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ib.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -189,7 +189,7 @@
 		<Gate>55</Gate>
 		<Status>On Time</Status>
 		<Terminal>E2</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/af.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/af.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -204,7 +204,7 @@
 		<Gate>55</Gate>
 		<Status>On Time</Status>
 		<Terminal>B4</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ua.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
@@ -219,7 +219,7 @@
 		<Gate>33</Gate>
 		<Status>Delay 20:00</Status>
 		<Terminal>B4</Terminal>
-		<Logo>https://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+		<Logo>https://sq-nav.github.io/ISE/airplaine-logos/ua.png</Logo>
 		<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
 		<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
 		<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
